@@ -87,7 +87,8 @@ endmodule
 ```
 ## Simulated Output Gate Level Modelling
 
-_______ Here Paste the Simulated output  ___________
+_______ Here Paste the Simulated output  ___________![image](https://github.com/user-attachments/assets/d975d87e-9533-4d7d-a827-271b8857d0a4)
+
 
 ### 4:1 MUX Data Flow Implementation
 ```verilog
@@ -108,7 +109,8 @@ endmodule
 ```
 ## Simulated Output Data Flow Modelling
 
-_______ Here Paste the Simulated output  ___________
+_______ Here Paste the Simulated output  ___________![image](https://github.com/user-attachments/assets/1e7bab2b-3ab7-46d8-833a-675caf869982)
+
 
 ### 4:1 MUX Behavioral Implementation
 ```verilog
@@ -134,7 +136,8 @@ endmodule
 ```
 ## Simulated Output Behavioral Modelling
 
-_______ Here Paste the Simulated output  ___________
+_______ Here Paste the Simulated output  ___________![image](https://github.com/user-attachments/assets/4fcb8db7-074c-4ee8-87b4-073af16fe8cc)
+
 
 
 ### 4:1 MUX Structural Implementation
@@ -171,7 +174,8 @@ endmodule
 ```
 ## Simulated Output Structural Modelling
 
-_______ Here Paste the Simulated output  ___________
+_______ Here Paste the Simulated output  ___________![image](https://github.com/user-attachments/assets/322aa402-ad7e-43ce-bd11-32f3cbfe81aa)
+
 
 ### Testbench Implementation
 ```verilog
